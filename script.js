@@ -10,3 +10,7 @@ function helloFixBranch() {
 function helloFixBranch() {
     console.log('снова фиксим эту ветку');
 }
+
+function gitTest() {
+    console.log('очередной тест...');
+}
