@@ -6,3 +6,7 @@ function sayGitty() {
 function helloFixBranch() {
     console.log('это ветка fix');
 }
+
+function helloFixBranch() {
+    console.log('снова фиксим эту ветку');
+}
